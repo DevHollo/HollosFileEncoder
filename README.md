@@ -7,3 +7,4 @@
 - [Example Usage](https://github.com/Developer-Hollo/HollosFileEncoder/blob/main/Python%203.11/example_usage.py)
 
 ## C++ Links
+- [Encoder Header](https://github.com/Developer-Hollo/HollosFileEncoder/blob/main/C%2B%2B/HollosFileEncoder.hh)
