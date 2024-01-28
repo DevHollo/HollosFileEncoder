@@ -8,3 +8,4 @@
 
 ## C++ Links
 - [Encoder Header](https://github.com/Developer-Hollo/HollosFileEncoder/blob/main/C%2B%2B/HollosFileEncoder.hh)
+- [Example Usage](https://github.com/Developer-Hollo/HollosFileEncoder/blob/main/C%2B%2B/example_usage.cpp)
